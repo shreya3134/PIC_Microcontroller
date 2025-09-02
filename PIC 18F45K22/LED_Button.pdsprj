@@ -1,0 +1,6 @@
+
+[Project]
+Name=LED_Button_Project
+ProteusVersion=8.14
+Components=P18F45K22, Crystal20MHz, LEDs, PushButton
+Instructions=Load HEX file into PIC18F45K22 properties and run simulation.
